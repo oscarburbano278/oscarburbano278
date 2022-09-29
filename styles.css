@@ -1,4 +1,8 @@
-h1,li {
+h1,li,p {
     font-family:'Times New Roman', Times, serif;
-    
+    color: aliceblue;
+}
+
+body{
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/21omxpw.jpg);
 }
