@@ -1,8 +1,29 @@
-h1,li,p {
-    font-family:'Times New Roman', Times, serif;
-    color: rgb(75, 83, 90);
-}
 
 body{
-    background-color:white;
+    background-image: url("imagenes/imgFondo.png");
+   }
+
+.logNombre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:floralwhite;
+    text-align:right;
+
 }
+
+p,ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(145, 171, 194);
+    
+}
+
+.nav-link{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:floralwhite;
+ }
+ 
